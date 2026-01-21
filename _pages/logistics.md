@@ -17,11 +17,11 @@ Course readings will primarily include published research papers, provided as PD
 
 Additional useful deep learning and LLMs texts include:
 
-- [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
-- [Reinforcement Learning from Human Feedback](https://rlhfbook.com/book.pdf) by Lambert
-- [Dive into Deep Learning](https://d2l.ai/) by Zhang, Lipton, Li, and Smola
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Jurafsky and Martin
+- [Reinforcement Learning from Human Feedback](https://rlhfbook.com/book.pdf) by Lambert
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by Xiao and Zhu
+- [Dive into Deep Learning](https://d2l.ai/) by Zhang, Lipton, Li, and Smola
+- [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
 
 ***
 
