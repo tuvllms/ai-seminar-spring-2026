@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/ai-seminar-spring-2026/canvas/";
           },
+        },{id: "nav-discord",
+          title: "discord",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/ai-seminar-spring-2026/discord/";
+          },
         },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
