@@ -17,7 +17,7 @@ The primary goal of this course is to examine recent developments in large langu
 
 <b>Prerequisites</b>
 
-TBD
+No prerequisites are required for this course.
 
 ***
 
