@@ -1,0 +1,21 @@
+Instructors:
+    - name: Tu Vu
+      role: Instructor
+      email: tuvu@vt.edu
+      url: https://tuvllms.github.io/
+      office-hours: "Friday 10:00 - 11:00 AM, <a href='https://www.google.com/maps/place/727+Prices+Fork+Rd,+Blacksburg,+VA+24060/@37.2315234,-80.4307853,17z/'>D&DS 374</a>"
+      image: tu.jpg
+
+    - name: Yu-Min Tseng
+      role: Teaching Assistant
+      email: ymtseng@vt.edu
+      url: https://www.ymtseng.com/
+      office-hours: "Wednesday 4:00 - 5:00 PM, <a href='https://www.google.com/maps/place/727+Prices+Fork+Rd,+Blacksburg,+VA+24060/@37.2315234,-80.4307853,17z/'>D&DS 339</a>"
+      image: yumin.jpg
+
+    - name: Jing Chen
+      role: Teaching Assistant
+      email: jingc25@vt.edu
+      url: https://scholar.google.com/citations?user=kX0saq8AAAAJ&hl=en
+      office-hours: "Monday 4:00 - 5:00 PM, <a href='https://www.google.com/maps/place/727+Prices+Fork+Rd,+Blacksburg,+VA+24060/@37.2315234,-80.4307853,17z/'>D&DS 339</a>"
+      image: jing.jpg
