@@ -30,8 +30,8 @@ Additional useful deep learning and LLMs texts include:
 The tentative grading breakdown is as follows:
 - Written homework assignments (20%)
 - Discussion question submission + in-class participation (25%)
-- Exam (in-class, 30%) 
 - Presentations of assigned papers (25%)
+- Final exam (in-class, 30%) 
 
 ***
 
