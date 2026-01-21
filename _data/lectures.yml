@@ -3,7 +3,7 @@
 - date: 1/21
   lecturer:
   title: <strong>Introduction & Transformers </strong>
-  slides: 
+  slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_1.pdf"
   readings:
     - Vaswani et al. (2017) <a href="https://arxiv.org/pdf/1706.03762" target="_blank">Attention Is All You Need</a>
     - Jay Alammar's blog <a href="https://jalammar.github.io/illustrated-gpt2/" target="_blank">The Illustrated GPT-2 (Visualizing Transformer Language Models)</a>
