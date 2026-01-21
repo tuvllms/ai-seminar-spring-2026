@@ -75,7 +75,13 @@ See  <a href="https://honorsystem.vt.edu/">additional information about the Hono
 
 ### Course/learning objectives
 
-TBD
+By the end of this course, students will be able to:
+
+- Explain core architectures and training paradigms for LLMs and generative AI, including Transformers, multimodal systems, agentic frameworks.
+- Analyze recent advances in LLM pretraining, post-training, evaluation, and efficient training and inference.
+- Evaluate large reasoning models, test-time scaling methods, and self-evolving agents that incorporate reasoning memory.
+- Critically read and assess contemporary research papers, identifying assumptions, limitations, and open problems.
+- Formulate well-defined research questions in LLMs and generative AI, and propose principled solution approaches relevant to their own research domains.
 
 ***
 
