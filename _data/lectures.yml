@@ -9,7 +9,7 @@
     - Jay Alammar's blog <a href="https://jalammar.github.io/illustrated-gpt2/" target="_blank">The Illustrated GPT-2 (Visualizing Transformer Language Models)</a>
   logistics:
 
-- date: 11/18
+- date: 1/26
   lecturer:
   title: <strong>Transformers (cont’d) & Pretraining Scaling</strong>
   slides: 
@@ -21,9 +21,209 @@
     - "[optional] Li et al. (2025) <a href='https://arxiv.org/pdf/2502.18969' target='_blank'>(Mis)Fitting: A Survey of Scaling Laws</a>"
   logistics:
 
-- date: 11/20
+- date: 1/28
+  lecturer:
+  title: <strong>Mixture-of-Experts & Multimodal models</strong>
+  slides: 
+  readings:
+  logistics:
+
+- title: "Efficient training & inference"
+
+- date: 2/2
   lecturer: 
   title: 
+  slides: 
+  readings:
+  logistics:
+
+- date: 2/4
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- title: "Post-training & Reinforcement Learning"
+
+- date: 2/9
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- date: 2/11
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- title: "Large reasoning models & Test-time scaling"
+
+- date: 2/16
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- date: 2/18
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- title: "Agents & Compound AI systems"
+
+- date: 2/23
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- date: 2/25
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- title: "Guest Lecture"
+
+- date: 3/2
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- date: 3/4
+  lecturer: 
+  title: 
+  slides: 
+  readings:
+  logistics:
+
+- title: "Spring break"
+
+- date: 3/9
+  title: No classes
+
+- date: 3/11
+  title: No classes 
+
+- title: "Student presentations & discussions"
+
+- date: 3/16
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 3/18
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 3/23
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 3/25
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 3/30
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/1
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/6
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/8
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/13
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/15
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/20
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/22
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/27
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- date: 4/29
+  lecturer: 
+  title: TBD
+  slides: 
+  readings:
+  logistics:
+
+- title: "Final exam"
+
+- date: 5/4
+  title: No classes
+  
+- date: 5/6
+  lecturer: 
+  title: TBD
   slides: 
   readings:
   logistics:
