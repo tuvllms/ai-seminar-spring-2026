@@ -13,11 +13,12 @@ nav_order: 1
 
 ### Textbooks
 
-For AI fundamentals, we recommend [Artificial Intelligence: A Modern Approach](https://aima.cs.berkeley.edu) by Russell and Norvig. Course readings will primarily include published research papers, provided as PDFs.
+Course readings will primarily include published research papers, provided as PDFs.
 
 Additional useful deep learning and LLMs texts include:
 
 - [Deep Learning](https://www.deeplearningbook.org/) by Goodfellow, Bengio, and Courville
+- [Reinforcement Learning from Human Feedback](https://rlhfbook.com/book.pdf) by Lambert
 - [Dive into Deep Learning](https://d2l.ai/) by Zhang, Lipton, Li, and Smola
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Jurafsky and Martin
 - [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by Xiao and Zhu
@@ -27,16 +28,16 @@ Additional useful deep learning and LLMs texts include:
 ### Grading criteria
 
 The tentative grading breakdown is as follows:
-
-- Quizzes (10%)
-- Homework assignments (50%)
-- Final project (40%)
+- Written homework assignments (20%)
+- Discussion question submission + in-class participation (25%)
+- Exam (in-class, 30%) 
+- Presentations of assigned papers (25%)
 
 ***
 
 ### Late policy
 
-Each student is allowed three late days total across all homework submissions. Once these three days are used, no additional late submissions will be accepted. If you encounter an unexpected health or personal emergency, please contact the instructors as soon as possible at <a href="mailto:cs4804instructors@gmail.com" target="_blank">cs4804instructors@gmail.com</a>, and provide valid documentation if needed. Late submissions due to job interviews, other coursework, or non-emergency situations will not be excused, and extensions will not be granted.
+Each student is allowed *two* late days total across all homework submissions. Once these three days are used, no additional late submissions will be accepted. If you encounter an unexpected health or personal emergency, please contact the instructors as soon as possible at <a href="mailto:cs6804instructors@gmail.com" target="_blank">cs4804instructors@gmail.com</a>, and provide valid documentation if needed. Late submissions due to job interviews, other coursework, or non-emergency situations will not be excused, and extensions will not be granted.
 
 ***
 
@@ -48,7 +49,7 @@ AI assistance is permitted for completing assignments, including homework, quizz
 
 ### Student collaboration policy
 
-For group projects, work must be completed solely by members of the group. Apart from group projects, students must independently complete their work. Sharing code or written materials with others is prohibited. However, discussing concepts, clarifying instructions, exploring problem-solving approaches, or seeking debugging advice (without sharing code) is encouraged. All external sources must be properly cited.
+For group presentations, work must be completed solely by members of the group. Apart from group presentations, students must independently complete their work. Sharing code or written materials with others is prohibited. However, discussing concepts, clarifying instructions, exploring problem-solving approaches, or seeking debugging advice (without sharing code) is encouraged. All external sources must be properly cited.
 
 ***
 
