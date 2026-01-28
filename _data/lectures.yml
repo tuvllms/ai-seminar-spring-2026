@@ -11,8 +11,8 @@
 
 - date: 1/26
   lecturer:
-  title: <strong>Transformers (cont’d) & Pretraining Scaling</strong>
-  slides: 
+  title: <strong>Transformers (cont’d)</strong>
+  slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_2.pdf"
   readings:
     - "Devlin et al. (2018) <a href='https://arxiv.org/pdf/1810.04805' target='_blank'>BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a>"
     - Raffel et al. (2019) <a href="https://arxiv.org/pdf/1910.10683" target="_blank">Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer</a>
