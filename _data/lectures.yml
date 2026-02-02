@@ -25,7 +25,7 @@
 - date: 2/2
   lecturer: 
   title: <strong>Transformers (cont’d) & Pretraining scaling</strong>
-  slides: 
+  slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_3.pdf"
   readings:
     - Hoffmann et al. (2022) <a href="https://arxiv.org/pdf/2203.15556" target="_blank">Training Compute-Optimal Large Language Models</a>
     - "[optional] Li et al. (2025) <a href='https://arxiv.org/pdf/2502.18969' target='_blank'>(Mis)Fitting: A Survey of Scaling Laws</a>"
