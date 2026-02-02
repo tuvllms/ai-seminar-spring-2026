@@ -10,6 +10,9 @@
   logistics:
 
 - date: 1/26
+  title: No classes (canceled due to inclement weather)
+
+- date: 1/28
   lecturer:
   title: <strong>Transformers (cont’d)</strong>
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_2.pdf"
@@ -21,21 +24,14 @@
     - "[optional] Li et al. (2025) <a href='https://arxiv.org/pdf/2502.18969' target='_blank'>(Mis)Fitting: A Survey of Scaling Laws</a>"
   logistics:
 
-- date: 1/28
-  lecturer:
-  title: <strong>Mixture-of-Experts & Multimodal models</strong>
-  slides: 
-  readings:
-  logistics:
-
-- title: "Efficient training & inference"
-
 - date: 2/2
   lecturer: 
   title: 
   slides: 
   readings:
   logistics:
+
+- title: "Efficient training & inference"
 
 - date: 2/4
   lecturer: 
@@ -44,14 +40,14 @@
   readings:
   logistics:
 
-- title: "Post-training & Reinforcement Learning"
-
 - date: 2/9
   lecturer: 
   title: 
   slides: 
   readings:
   logistics:
+  
+- title: "Post-training & Reinforcement Learning"
 
 - date: 2/11
   lecturer: 
@@ -60,14 +56,14 @@
   readings:
   logistics:
 
-- title: "Large reasoning models & Test-time scaling"
-
 - date: 2/16
   lecturer: 
   title: 
   slides: 
   readings:
   logistics:
+
+- title: "Large reasoning models & Test-time scaling"
 
 - date: 2/18
   lecturer: 
@@ -76,14 +72,14 @@
   readings:
   logistics:
 
-- title: "Agents & Compound AI systems"
-
 - date: 2/23
   lecturer: 
   title: 
   slides: 
   readings:
   logistics:
+
+- title: "Agents & Compound AI systems"
 
 - date: 2/25
   lecturer: 
@@ -92,14 +88,14 @@
   readings:
   logistics:
 
-- title: "Guest Lectures"
-
 - date: 3/2
   lecturer: 
-  title: TBD
+  title: 
   slides: 
   readings:
   logistics:
+
+- title: "Guest Lecture"
 
 - date: 3/4
   lecturer: 
