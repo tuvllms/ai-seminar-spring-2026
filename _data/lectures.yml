@@ -44,6 +44,10 @@
   title: <strong>Decoding and inference </strong>
   slides:
   readings:
+    - Holtzman et al. (2019) <a href="https://arxiv.org/pdf/1904.09751" target="_blank">The Curious Case of Neural Text Degeneration</a>
+    - Brown et al. (2020) <a href="https://arxiv.org/pdf/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
+    - Wei et al. (2022) <a href="https://arxiv.org/pdf/2201.11903" target="_blank">Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a>
+    - Anthropic blog <a href="https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents" target="_blank">Effective context engineering for AI agents</a>
   logistics:
 
 - date: 2/11
