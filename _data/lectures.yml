@@ -39,16 +39,14 @@
     - "[optional] Li et al. (2025) <a href='https://arxiv.org/pdf/2502.18969' target='_blank'>(Mis)Fitting: A Survey of Scaling Laws</a>"
   logistics:
 
-- title: "Efficient training & inference"
-
 - date: 2/9
   lecturer: 
-  title: <strong>Decoding and prompting strategies</strong>
-  slides: 
+  title: <strong>TBD</strong>
+  slides:
   readings:
   logistics:
-  
-- title: "Post-training & Reinforcement Learning"
+
+- title: "Efficient training & inference"
 
 - date: 2/11
   lecturer: 
@@ -63,8 +61,8 @@
   slides: 
   readings:
   logistics:
-
-- title: "Large reasoning models & Test-time scaling"
+  
+- title: "Post-training & Reinforcement Learning"
 
 - date: 2/18
   lecturer: 
@@ -79,8 +77,8 @@
   slides: 
   readings:
   logistics:
-
-- title: "Agents & Compound AI systems"
+  
+- title: "Large reasoning models & Test-time scaling"
 
 - date: 2/25
   lecturer: 
@@ -96,7 +94,7 @@
   readings:
   logistics:
 
-- title: "Guest Lecture"
+- title: "Agents & Compound AI systems"
 
 - date: 3/4
   lecturer: 
@@ -113,7 +111,7 @@
 - date: 3/11
   title: No classes 
 
-- title: "Student presentations & discussions"
+- title: "Agents & Compound AI systems (cont'd)"
 
 - date: 3/16
   lecturer: 
@@ -128,6 +126,8 @@
   slides: 
   readings:
   logistics:
+
+- title: "Student presentations & discussions"
 
 - date: 3/23
   lecturer: 
