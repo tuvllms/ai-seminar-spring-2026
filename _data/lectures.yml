@@ -42,7 +42,7 @@
 - date: 2/9
   lecturer: 
   title: <strong>Decoding and inference </strong>
-  slides:
+  slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_5.pdf" 
   readings:
     - Holtzman et al. (2019) <a href="https://arxiv.org/pdf/1904.09751" target="_blank">The Curious Case of Neural Text Degeneration</a>
     - Brown et al. (2020) <a href="https://arxiv.org/pdf/2005.14165" target="_blank">Language Models are Few-Shot Learners</a>
