@@ -53,7 +53,7 @@
 - date: 2/11
   lecturer: 
   title: <strong>Multimodal models</strong>
-  slides: 
+  slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_6.pdf" 
   readings:
     - "Dosovitskiy et al. (2020) <a href='https://arxiv.org/pdf/2010.11929' target='_blank'>An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale</a>"
   logistics:
