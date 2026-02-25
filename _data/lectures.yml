@@ -101,14 +101,14 @@
     - "<a href='https://rlhfbook.com/book.pdf' target='_blank'>Lambert (2026) (Chapter 6)</a>"
   logistics:
 
-- title: "Large reasoning models & Test-time scaling"
-
 - date: 3/2
   lecturer: 
   title: TBD
   slides: 
   readings:
   logistics:
+
+- title: "Large reasoning models & Test-time scaling"
 
 - date: 3/4
   lecturer: 
