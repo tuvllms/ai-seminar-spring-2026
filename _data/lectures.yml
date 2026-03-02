@@ -103,8 +103,8 @@
 
 - date: 3/2
   lecturer: 
-  title: TBD
-  slides: 
+  title: Reinforcement learning (cont'd)
+  slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_11.pdf" 
   readings:
   logistics:
 
