@@ -153,10 +153,13 @@
   logistics:
 
 - date: 3/25
-  lecturer: 
-  title: TBD
+  lecturer: Neelesh & Sriram
+  title: Context Engineering & Agentic Memory
   slides: 
   readings:
+    - "Xu et al. (2025) <a href='https://arxiv.org/pdf/2502.12110' target='_blank'>A-MEM: Agentic Memory for LLM Agents</a>"
+    - "Zhang et al. (2025) <a href='https://arxiv.org/pdf/2510.04618' target='_blank'>Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models</a>"
+    
   logistics:
 
 - date: 3/30
