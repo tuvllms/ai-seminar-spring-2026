@@ -139,6 +139,10 @@
   title: Agents
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_14.pdf" 
   readings:
+    - "Andrew Ng <a href='https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/' target='_blank'>Agentic Design Patterns Part 1-5</a>"
+    - "Wang et al. (2024) <a href='https://arxiv.org/pdf/2407.16741' target='_blank'>OpenHands: An Open Platform for AI Software Developers as Generalist Agents</a>"
+    - "Xie et al. (2024) <a href='https://arxiv.org/pdf/2404.07972' target='_blank'>OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments</a>"
+    - "Huang et al. (2025) <a href='https://arxiv.org/pdf/2506.18096' target='_blank'>Deep Research Agents: A Systematic Examination And Roadmap</a>"
   logistics:
 
 - title: "Student presentations & discussions"
