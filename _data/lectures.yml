@@ -129,9 +129,13 @@
 
 - date: 3/16
   lecturer: 
-  title: TBD
+  title: Test-time scaling (cont'd) + Compound AI systems
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_13.pdf" 
   readings:
+      - "Venkatraman et al. (2025) <a href='https://arxiv.org/pdf/2509.26626' target='_blank'>Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models</a>"
+      - "Schick et al. (2023) <a href='https://arxiv.org/pdf/2302.04761' target='_blank'>Toolformer: Language Models Can Teach Themselves to Use Tools</a>"
+      - "Jin et al. (2025) <a href='https://arxiv.org/pdf/2503.09516' target='_blank'>Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning</a>"
+      - "Agrawal et al. (2025) <a href='https://arxiv.org/pdf/2507.19457' target='_blank'>GEPA: Reflective Prompt Evolution Can Outperform Reinforcement Learning</a>"
   logistics:
 
 - date: 3/18
