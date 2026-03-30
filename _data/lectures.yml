@@ -166,10 +166,12 @@
   logistics:
 
 - date: 3/30
-  lecturer: 
-  title: TBD
+  lecturer: Mokshitha & Ishtiaque & Muhammad
+  title: Long-context processing
   slides: 
   readings:
+    - "Sun et al. (2025) <a href='https://arxiv.org/pdf/2510.11967' target='_blank'>Scaling Long-Horizon LLM Agent via Context-Folding</a>"
+    - "Zhang et al. (2025) <a href='https://arxiv.org/pdf/2512.24601' target='_blank'>Recursive Language Models</a>"
   logistics:
 
 - date: 4/1
