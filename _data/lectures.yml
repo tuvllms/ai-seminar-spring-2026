@@ -172,13 +172,17 @@
   readings:
     - "Sun et al. (2025) <a href='https://arxiv.org/pdf/2510.11967' target='_blank'>Scaling Long-Horizon LLM Agent via Context-Folding</a>"
     - "Zhang et al. (2025) <a href='https://arxiv.org/pdf/2512.24601' target='_blank'>Recursive Language Models</a>"
+    - "[optional] Alizadeh et al. (2026) <a href='https://arxiv.org/pdf/2603.15653' target='_blank'>Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context</a>"
   logistics:
 
 - date: 4/1
-  lecturer: 
-  title: TBD
+  lecturer: Alexa & Simon & Hajra
+  title: AI for scientific research
   slides: 
   readings:
+    - "Novikov et al. (2025) <a href='https://arxiv.org/pdf/2506.13131' target='_blank'>AlphaEvolve: A coding agent for scientific and algorithmic discovery</a>"
+    - "Lu et al. (2026) <a href='https://www.nature.com/articles/s41586-026-10265-5' target='_blank'>Towards end-to-end automation of AI research</a>"
+    - "[optional] Andrej Karpathy's <a href='https://github.com/karpathy/autoresearch' target='_blank'>autoresearch</a>"
   logistics:
 
 - date: 4/6
