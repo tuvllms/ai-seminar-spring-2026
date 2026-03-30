@@ -94,7 +94,7 @@
 
 - date: 2/25
   lecturer: 
-  title: Post-training (cont'd)
+  title: <strong>Post-training (cont'd)</strong>
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_10.pdf" 
   readings:
     - "Rafailov et al. (2023) <a href='https://arxiv.org/pdf/2305.18290' target='_blank'>Direct Preference Optimization: Your Language Model is Secretly a Reward Model</a>"
@@ -103,7 +103,7 @@
 
 - date: 3/2
   lecturer: 
-  title: Policy gradient algorithms
+  title: <strong>Policy gradient algorithms</strong>
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_11.pdf"
   readings:
     - "<a href='https://rlhfbook.com/book.pdf' target='_blank'>Lambert (2026) (Chapter 6)</a>"
@@ -114,7 +114,7 @@
 
 - date: 3/4
   lecturer: 
-  title: Policy gradient algorithms (cont'd) + Test-time scaling
+  title: <strong>Policy gradient algorithms (cont'd) + Test-time scaling</strong>
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_12.pdf" 
   readings:
     - "DeepSeek-AI (2025) <a href='https://arxiv.org/pdf/2501.19393' target='_blank'>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</a>"
@@ -135,7 +135,7 @@
 
 - date: 3/16
   lecturer: 
-  title: Test-time scaling (cont'd) + Compound AI systems
+  title: <strong>Test-time scaling (cont'd) + Compound AI systems</strong>
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_13.pdf" 
   readings:
       - "Venkatraman et al. (2025) <a href='https://arxiv.org/pdf/2509.26626' target='_blank'>Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models</a>"
@@ -146,7 +146,7 @@
 
 - date: 3/18
   lecturer: 
-  title: Agents
+  title: <strong>Agents</strong>
   slides: "https://tuvllms.github.io/ai-seminar-spring-2026/assets/pdf/lecture_14.pdf" 
   readings:
     - "Andrew Ng <a href='https://www.deeplearning.ai/the-batch/how-agents-can-improve-llm-performance/' target='_blank'>Agentic Design Patterns Part 1-5</a>"
@@ -159,7 +159,7 @@
 
 - date: 3/23
   lecturer: Kiymet & Enoch
-  title: LLM-as-a-Judge & LLM Evaluation
+  title: <strong>LLM-as-a-Judge & LLM Evaluation</strong>
   slides: 
   readings:
     - Zheng et al. (2023) <a href="https://arxiv.org/pdf/2306.05685" target="_blank">Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena</a>
@@ -169,7 +169,7 @@
 
 - date: 3/25
   lecturer: Neelesh & Sriram
-  title: Context Engineering & Agentic Memory
+  title: <strong>Context Engineering & Agentic Memory</strong>
   slides: 
   readings:
     - "Xu et al. (2025) <a href='https://arxiv.org/pdf/2502.12110' target='_blank'>A-MEM: Agentic Memory for LLM Agents</a>"
@@ -181,7 +181,7 @@
 
 - date: 3/30
   lecturer: Mokshitha & Ishtiaque & Muhammad
-  title: Long-context processing
+  title: <strong>Long-context processing</strong>
   slides: 
   readings:
     - "Sun et al. (2025) <a href='https://arxiv.org/pdf/2510.11967' target='_blank'>Scaling Long-Horizon LLM Agent via Context-Folding</a>"
@@ -191,7 +191,7 @@
 
 - date: 4/1
   lecturer: Alexa & Simon & Hajra
-  title: AI for scientific research
+  title: <strong>AI for scientific research</strong>
   slides: 
   readings:
     - "Novikov et al. (2025) <a href='https://arxiv.org/pdf/2506.13131' target='_blank'>AlphaEvolve: A coding agent for scientific and algorithmic discovery</a>"
