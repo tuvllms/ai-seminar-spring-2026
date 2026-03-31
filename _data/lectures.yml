@@ -200,10 +200,13 @@
   logistics:
 
 - date: 4/6
-  lecturer: 
-  title: TBD
+  lecturer: Caleb & Sangwook
+  title: <strong>Test-time discovery and optimization</strong>
   slides: 
   readings:
+    - "Yuksekgonul et al. (2026) <a href='https://arxiv.org/pdf/2601.16175' target='_blank'>Learning to Discover at Test Time</a>"
+    - "Lee et al. (2026) <a href='https://arxiv.org/pdf/2603.28052' target='_blank'>Meta-Harness: End-to-End Optimization of Model Harnesses</a>"
+    - "[optional] <a href='https://gepa-ai.github.io/gepa/blog/2026/02/18/introducing-optimize-anything/' target='_blank'>optimize_anything: A Universal API for Optimizing any Text Parameter</a>"
   logistics:
 
 - date: 4/8
