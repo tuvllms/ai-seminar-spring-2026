@@ -210,10 +210,13 @@
   logistics:
 
 - date: 4/8
-  lecturer: 
-  title: TBD
+  lecturer: Rituraj & Jing
+  title: <strong>Deep Think</strong>
   slides: 
   readings:
+    - "Venkatraman et al. (2026) <a href='https://arxiv.org/pdf/2509.26626' target='_blank'>Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models</a>"
+    - "Sharma et al. (2026) <a href='https://arxiv.org/abs/2603.02479' target='_blank'>PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference</a>"
+    - "[optional] Singh et al. (2026) <a href='https://arxiv.org/pdf/2603.04304' target='_blank'>V1: Unifying Generation and Self-Verification for Parallel Reasoners</a>"
   logistics:
 
 - date: 4/13
