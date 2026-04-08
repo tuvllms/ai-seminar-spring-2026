@@ -224,6 +224,7 @@
   title: <strong>Model interpretability</strong>
   slides: 
   readings: 
+  - "Anthropic's blog (2026) <a href='https://www.anthropic.com/research/emotion-concepts-function' target='_blank'>Emotion Concepts and their Function in a Large Language Model</a>"
   - "Sofroniew et al. (2026) <a href='https://transformer-circuits.pub/2026/emotions/index.html' target='_blank'>Emotion Concepts and their Function in a Large Language Model</a>"
   logistics:
 
