@@ -220,10 +220,11 @@
   logistics:
 
 - date: 4/13
-  lecturer: 
-  title: TBD
+  lecturer: Yu-Min & Yeana & Pin-Jie
+  title: <strong>Model interpretability</strong>
   slides: 
-  readings:
+  readings: 
+  - "Sofroniew et al. (2026) <a href='https://transformer-circuits.pub/2026/emotions/index.html' target='_blank'>Emotion Concepts and their Function in a Large Language Model</a>"
   logistics:
 
 - date: 4/15
