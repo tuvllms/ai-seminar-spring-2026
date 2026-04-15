@@ -213,7 +213,7 @@
   slides: 
   readings:
     - "Venkatraman et al. (2026) <a href='https://arxiv.org/pdf/2509.26626' target='_blank'>Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models</a>"
-    - "Sharma et al. (2026) <a href='https://arxiv.org/abs/2603.02479' target='_blank'>PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference</a>"
+    - "Sharma et al. (2026) <a href='https://arxiv.org/pdf/2603.02479' target='_blank'>PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference</a>"
     - "[optional] Singh et al. (2026) <a href='https://arxiv.org/pdf/2603.04304' target='_blank'>V1: Unifying Generation and Self-Verification for Parallel Reasoners</a>"
   logistics:
 
@@ -222,8 +222,8 @@
   title: <strong>Model interpretability</strong>
   slides: 
   readings: 
-  - "Anthropic's blog (2026) <a href='https://www.anthropic.com/research/emotion-concepts-function' target='_blank'>Emotion Concepts and their Function in a Large Language Model</a>"
-  - "Sofroniew et al. (2026) <a href='https://transformer-circuits.pub/2026/emotions/index.html' target='_blank'>Emotion Concepts and their Function in a Large Language Model</a>"
+    - "Anthropic's blog (2026) <a href='https://www.anthropic.com/research/emotion-concepts-function' target='_blank'>Emotion Concepts and their Function in a Large Language Model</a>"
+    - "Sofroniew et al. (2026) <a href='https://transformer-circuits.pub/2026/emotions/index.html' target='_blank'>Emotion Concepts and their Function in a Large Language Model</a>"
   logistics:
 
 - date: 4/15
@@ -231,21 +231,26 @@
   title: <strong>Diffusion models & Diffusion LLMs</strong>
   slides: 
   readings:
-  - "Nie et al. (2026) <a href='https://arxiv.org/abs/2502.09992' target='_blank'>Large Language Diffusion Models</a>"
-  - "Miles et al. (2026) <a href='https://arxiv.org/abs/2602.22871' target='_blank'>Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching</a>"
-  - "[optional] Isaac Ke's video <a href='https://www.youtube.com/watch?v=x2GRE-RzmD8' target='_blank'>Diffusion Models for AI Image Generation</a>"
+    - "Nie et al. (2026) <a href='https://arxiv.org/pdf/2502.09992' target='_blank'>Large Language Diffusion Models</a>"
+    - "Miles et al. (2026) <a href='https://arxiv.org/pdf/2602.22871' target='_blank'>Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching</a>"
+    - "[optional] Isaac Ke's video <a href='https://www.youtube.com/watch?v=x2GRE-RzmD8' target='_blank'>Diffusion Models for AI Image Generation</a>"
   logistics:
 
 - date: 4/20
-  lecturer: 
-  title: TBD
+  lecturer: Cameron & Briana
+  title: <strong>AI security & privacy</strong>
   slides: 
   readings:
+    - "Betley et al. (2025) <a href='https://arxiv.org/pdf/2502.17424' target='_blank'>Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs</a>"
+    - "Panfilov et al. (2026) <a href='https://arxiv.org/pdf/2602.22871' target='_blank'>Claudini: Autoresearch Discovers State-of-the-Art Adversarial Attack Algorithms for LLMs</a>"
+    - "[optional] Wang et al. (2025) <a href='https://arxiv.org/pdf/2506.19823' target='_blank'>Persona Features Control Emergent Misalignment</a>"
+    - "[optional] Liu et al. (2026) <a href='https://arxiv.org/pdf/2603.20957' target='_blank'>Alignment Whack-a-Mole : Finetuning Activates Verbatim Recall of Copyrighted Books in Large Language Models</a>"
+    - "[optional] Goel et al. (2026) <a href='https://arxiv.org/pdf/2601.15220' target='_blank'>Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models</a>"
   logistics:
 
 - date: 4/22
   lecturer: 
-  title: Tu traveling
+  title: TBD
   readings:
   logistics:
 
