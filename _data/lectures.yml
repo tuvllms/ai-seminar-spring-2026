@@ -175,8 +175,6 @@
     - "Xu et al. (2025) <a href='https://arxiv.org/pdf/2502.12110' target='_blank'>A-MEM: Agentic Memory for LLM Agents</a>"
     - "Zhang et al. (2025) <a href='https://arxiv.org/pdf/2510.04618' target='_blank'>Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models</a>"
     - "[optional] Anthropic's blog <a href='https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents' target='_blank'>Effective context engineering for AI agents</a>"
-
-    
   logistics:
 
 - date: 3/30
@@ -229,10 +227,13 @@
   logistics:
 
 - date: 4/15
-  lecturer: 
-  title: TBD
+  lecturer: Farhana & Bikash & Heajun
+  title: <strong>Diffusion models & Diffusion LLMs</strong>
   slides: 
   readings:
+  - "Nie et al. (2026) <a href='https://arxiv.org/abs/2502.09992' target='_blank'>Large Language Diffusion Models</a>"
+  - "Miles et al. (2026) <a href='https://arxiv.org/abs/2602.22871' target='_blank'>Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching</a>"
+  - "[optional] Isaac Ke<a href='https://www.youtube.com/watch?v=x2GRE-RzmD8' target='_blank'>Diffusion Models for AI Image Generation</a>"
   logistics:
 
 - date: 4/20
