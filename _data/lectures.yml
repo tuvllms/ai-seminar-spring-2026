@@ -233,7 +233,7 @@
   readings:
   - "Nie et al. (2026) <a href='https://arxiv.org/abs/2502.09992' target='_blank'>Large Language Diffusion Models</a>"
   - "Miles et al. (2026) <a href='https://arxiv.org/abs/2602.22871' target='_blank'>Test-Time Scaling with Diffusion Language Models via Reward-Guided Stitching</a>"
-  - "[optional] Isaac Ke<a href='https://www.youtube.com/watch?v=x2GRE-RzmD8' target='_blank'>Diffusion Models for AI Image Generation</a>"
+  - "[optional] Isaac Ke's video <a href='https://www.youtube.com/watch?v=x2GRE-RzmD8' target='_blank'>Diffusion Models for AI Image Generation</a>"
   logistics:
 
 - date: 4/20
