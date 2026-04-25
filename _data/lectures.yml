@@ -249,23 +249,29 @@
   logistics:
 
 - date: 4/22
-  lecturer: 
-  title: TBD
+  lecturer: Umid & Jafar
+  title: <strong>AI bias</strong>
   readings:
+  - "Cloud et al. (2025) <a href='https://arxiv.org/pdf/2507.14805' target='_blank'>Subliminal Learning: Language models transmit behavioral traits via hidden signals in data</a>"
+  - "Schrodi et al. (2025) <a href='https://arxiv.org/pdf/2509.23886' target='_blank'>Towards Understanding Subliminal Learning: When and How Hidden Biases Transfer</a>"
   logistics:
 
 - date: 4/27
-  lecturer: 
-  title: TBD
+  lecturer: Sneha & Aravinda
+  title: <strong>Test-time scaling for evaluation</strong>
   slides: 
   readings:
+  - "Kwok et al. (2026) <a href='https://llm-as-a-verifier.notion.site/' target='_blank'>LLM-as-a-Verifier: A General-Purpose Verification Framework</a>"
+  - "Zhang et al. (2026) <a href='https://arxiv.org/pdf/2603.01571' target='_blank'>Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models</a>"
   logistics:
 
 - date: 4/29
-  lecturer: 
-  title: TBD
+  lecturer: Hani & Najibul
+  title: <strong>Chain-of-Thought monitorability and controllability</strong>
   slides: 
   readings:
+  - "Guan et al. (2025) <a href='https://arxiv.org/pdf/2512.18311' target='_blank'>Monitoring Monitorability</a>"
+  - "Yueh-Han et al. (2026) <a href='https://arxiv.org/pdf/2603.05706' target='_blank'>Reasoning Models Struggle to Control their Chains of Thought</a>"
   logistics:
 
 - title: "Final exam"
